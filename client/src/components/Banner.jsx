@@ -38,7 +38,6 @@ const Banner = () => {
                     </div>
                 </div>
             </div>
-            <hr className='' />
         </div>
     )
 }

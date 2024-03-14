@@ -11,13 +11,13 @@ const Footer = () => {
                 <div className="px-[17rem] py-[3rem] flex justify-center items-center gap-16 ">
                     <div className="bg">
                         <img src={footer} className='w-[15rem] mb-8' alt="" />
-                        <p className='text-white text-[1rem] font-medium'>Nous sommes basés à Goma, RD Congo.</p>
+                        <p className='text-white text-[1rem] '>Nous sommes basés à Goma, RD Congo.</p>
                     </div>
                     <div className="space-y-5">
                         <div className="text-green text-[1rem] underline  font-medium">Home</div>
-                        <div className="text-white text-[1rem] font-medium">About Us</div>
-                        <div className="text-white text-[1rem] font-medium">Services</div>
-                        <div className="text-white text-[1rem] font-medium">Contacts</div>
+                        <div className="text-white text-[1rem] ">About Us</div>
+                        <div className="text-white text-[1rem] ">Services</div>
+                        <div className="text-white text-[1rem] ">Contacts</div>
                     </div>
                     <div className="">
                         <p className='text-white text-2xl font-bold mb-2'>Entrons en contact !</p>

@@ -8,8 +8,8 @@ import Footer from '../components/Footer'
 
 const home = () => {
   return (
-    <div className='bg-secondary overflow-x-hidden'>
-        <NavBar className="top-[0px] left-[0px] sticky" />
+    <div className='bg-primary overflow-x-hidden'>
+        <NavBar className="top-[0px] left-[0px] fixed" />
         <Banner/>
         <Nous/>
         <Faisons/>
